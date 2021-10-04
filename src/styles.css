@@ -1,0 +1,26 @@
+.App {
+  font-family: "Encode Sans", sans-serif;
+  text-align: center;
+  background-color: #111827;
+  margin: auto;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  background-color: transparent;
+  border-color: gray;
+  color: gray;
+}
+
+h1 {
+  color: gray;
+}
+
+h3 {
+  color: gray;
+}
+#Answers {
+}
